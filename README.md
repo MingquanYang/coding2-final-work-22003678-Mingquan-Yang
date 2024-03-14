@@ -17,10 +17,9 @@ In terms of game interface design, I leveraged my expertise in visual design fro
 Regarding game mechanics, I designed three types of obstacles, each with different penalty rules. Colliding with branches and barriers results in losing a life, while colliding with kangaroos deducts points. Conversely, colliding with coins and diamonds accumulates different scores. I implemented collision detection using the hits() method and the collideRectRect() function to determine whether the car intersects with obstacles or rewards.
 
 Through this simulated driving game, my aim is to provide players with an enjoyable gaming experience while also helping to alleviate shoulder and neck tension, easing muscle fatigue.</p>
-            <iframe width="560" height="315" src="https://youtu.be/IkiwghBf7KQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/watch?v=IkiwghBf7KQ&t=2s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <p>My code is here: <a href="https://editor.p5js.org/mingquany25/sketches/vzWtSiqs6">here</a></p>
             <p>You can play here: <a href="https://editor.p5js.org/mingquany25/sketches/vzWtSiqs6">here</a></p>
-        </li>
             <p>All code you can find in github: <a href="https://github.com/MingquanYang/coding2-final-work-22003678-Mingquan-Yang">here</a></p>
         </li>
     </ol>
