@@ -21,7 +21,7 @@ Through this simulated driving game, my aim is to provide players with an enjoya
             <p>My code is here: <a href="https://editor.p5js.org/mingquany25/sketches/vzWtSiqs6">here</a></p>
             <p>You can play here: <a href="https://editor.p5js.org/mingquany25/sketches/vzWtSiqs6">here</a></p>
         </li>
-            <p>All code you can find in github: <a href="https://github.com/MingquanYang/Coding2-lab-work-22003678">here</a></p>
+            <p>All code you can find in github: <a href="https://github.com/MingquanYang/coding2-final-work-22003678-Mingquan-Yang">here</a></p>
         </li>
     </ol>
 </body>
